@@ -4,4 +4,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://lesfuj.github.io/mod4/)
+# To see the output [CLICK HERE](https://lesfuj.github.io/mod4/index (3).html)
